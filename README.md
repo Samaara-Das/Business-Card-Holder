@@ -1,7 +1,7 @@
 # Business Card Holder
 This is a Flutter app which enables users to scan business cards, manage them and store them in one place. Click the image below to see how the app works:
 
---
+[![My Business Card Holder App](https://img.youtube.com/vi/8C1tML-kQP8/0.jpg)](https://youtu.be/8C1tML-kQP8)
 
 ## Features
 1. Scan Business Cards: Users can scan business cards using their device's camera or select images from the gallery.
